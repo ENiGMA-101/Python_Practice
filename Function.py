@@ -1,2 +1,6 @@
-gf = input('who is your gf? ')
-print(f"My gf is {gf} <3")
+def greet_user():
+    print('I love u')
+    print('Do you love me?')
+print('Hi,')
+greet_user()
+print('She : Yes! Baby')
